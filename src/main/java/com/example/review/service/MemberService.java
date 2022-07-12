@@ -10,4 +10,5 @@ public interface MemberService {
 
   ArrayList<Member> getAll();
   
+  int sum(int x, int y);
 }
